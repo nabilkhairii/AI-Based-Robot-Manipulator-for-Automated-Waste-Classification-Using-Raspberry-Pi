@@ -1,0 +1,2 @@
+# AI-Based-Robot-Manipulator-for-Automated-Waste-Classification-Using-Raspberry-Pi
+This project developed an AI-based robot manipulator using Raspberry Pi and Ubuntu for automated object classification. The development included mechanical design and 3D printing, power requirement analysis, object detection model training and evaluation, and system integration for real-time object detection and classification.
